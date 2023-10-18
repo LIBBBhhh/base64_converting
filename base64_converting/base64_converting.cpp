@@ -1,4 +1,4 @@
-﻿
+﻿//youg coder ok
 #include <iostream>
 #include <fstream>
 #include <sstream>
